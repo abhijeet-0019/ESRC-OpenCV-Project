@@ -1,8 +1,22 @@
 ## ESRC-OpenCV-Project
 ESRC Workshop - Final Project: TEAM-12 VIVEKANANDA
 
-- The following project with the help of openCV python libraries we have been able to get the following objectives: </br>
->Motion Detection</br> Human Detection</br> Face Detection and Image Ehnancement.
+## Technology Used
+- OpenCV
+- Python Libraries
 
--Team Members</br>
-> Kritika Bhachawat </br>Harshita Mittal</br>Vartika Prajapat</br>Vartika Prajapat</br>Abhijeet Singh Rajpurohit
+## Features
+- Motion Detection
+- Human Detection
+- Face Detection
+- Image Ehnancement
+
+## Team Members
+- Abhijeet Singh Rajpurohit
+- Kritika Bhachawat
+- Harsh Soni
+- Harshita Mittal
+- Vartika Prajapat
+
+## Acknowledgements
+- A sincere thanks to our Professor Alok Singh Gahlot and to our workshop guide Professor Abhisek Gour.
